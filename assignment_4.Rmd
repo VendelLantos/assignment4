@@ -61,7 +61,7 @@ summary_data_data <- datasummary(growth+rgdp60 ~ treat*(mean+median+sd+ min+ max
 print(summary_data_data)
 ```
 
-**Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository.
+**Designated place**: The GDP mean growth is bigger for countries which did not have revolutions than countries which did have revolutions. This shows that countries without revolutions have on average a higher GDP growth than countries that had revolutions.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
